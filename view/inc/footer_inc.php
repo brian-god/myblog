@@ -1,6 +1,11 @@
 
-		<div class="footer">
-		</div>	
+        <div class="footer">
+            <div class="row">
+            </div>
+            <div class="row copyright">
+                <div>&copy&nbsp;唐晓康</div>
+            </div>
+        </div>
 	</div>
 	<!--jQuery引入-->
 	<script src="static/bootstrap/js/jquery.js" type="text/javascript"></script>

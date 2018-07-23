@@ -19,51 +19,51 @@
 </head>
 <body id="body">
 	<div class="container-fluid">
-    <div class="snow-container">
-        <nav id="top_menu">
-            <div id="timeShow" class="time1"></div>
-        </nav>
-    </div>
-    <nav class="top-menu navbar-fixed-top">
-			<div class="row">
-				<div class="container-fluid col-md-1">
-					<div class="navbar-header  col-md-1">
-						<a class="navbar-brand" href="#">
-							<img alt="Brand" src="static/img/menulogo.ico">
-						</a>
-					</div>
-				</div>
-				<div class="col-md-4 menu-box">
+        <div class="snow-container">
+            <nav id="top_menu">
+                <div id="timeShow" class="time1"></div>
+            </nav>
+        </div>
+        <nav class="top-menu navbar-fixed-top">
+                <div class="row">
+                    <div class="container-fluid col-md-1">
+                        <div class="navbar-header  col-md-1">
+                            <a class="navbar-brand" href="#">
+                                <img alt="Brand" src="static/img/menulogo.ico">
+                            </a>
+                        </div>
+                    </div>
+                    <div class="col-md-4 menu-box">
 
-				</div>
-				<div class="col-md-7 menu-box">
-					<ul class="menu-group">
-						<li class=" navigation-box navigation-click navigation-home" >
-							<a href="#" class="navigation"><i class="fa fa-home fa-fw"></i>&nbsp; Home</a>
-						</li>
-						<li class=" navigation-box" >
-							<a href="#" class="navigation"><i class="fa fa-linux fa-fw"></i>&nbsp;Linux</a>
-						</li>
-						<li class=" navigation-box" >
-							<a href="#" class="navigation"><i class="fa fa-html5 fa-fw"></i>&nbsp;前端</a>
-						</li>
-						<li class=" navigation-box" >
-							<a href="#" class="navigation"><i class="fa fa-laptop fa-fw"></i>&nbsp;后端</a>
-						</li>
-						<li class=" navigation-box" >
-							<a href="#" class="navigation"><i class="fa fa-database fa-fw"></i>&nbsp;数据库</a>
-						</li>
-						<li class=" navigation-box" >
-							<a href="#" class="navigation"><i class="fa fa-folder-open fa-fw"></i>&nbsp;其他文章</a>
-						</li>
-						<li class=" navigation-box" >
-							<a href="#" class="navigation"><i class="fa fa-comments-o fa-fw"></i>&nbsp;留言板</a>
-						</li>
-						<li class="">
-							<a href="#" class="navigation"><img src="/static/img/file_find1.ico"></a>
-						</li>
-					</ul>
-				</div>
-			</div>
-    </nav>
-    
+                    </div>
+                    <div class="col-md-7 menu-box">
+                        <ul class="menu-group">
+                            <li class=" navigation-box navigation-click navigation-home" >
+                                <a href="#" class="navigation"><i class="fa fa-home fa-fw"></i>&nbsp; Home</a>
+                            </li>
+                            <li class=" navigation-box" >
+                                <a href="#" class="navigation"><i class="fa fa-linux fa-fw"></i>&nbsp;Linux</a>
+                            </li>
+                            <li class=" navigation-box" >
+                                <a href="#" class="navigation"><i class="fa fa-html5 fa-fw"></i>&nbsp;前端</a>
+                            </li>
+                            <li class=" navigation-box" >
+                                <a href="#" class="navigation"><i class="fa fa-laptop fa-fw"></i>&nbsp;后端</a>
+                            </li>
+                            <li class=" navigation-box" >
+                                <a href="#" class="navigation"><i class="fa fa-database fa-fw"></i>&nbsp;数据库</a>
+                            </li>
+                            <li class=" navigation-box" >
+                                <a href="#" class="navigation"><i class="fa fa-folder-open fa-fw"></i>&nbsp;其他文章</a>
+                            </li>
+                            <li class=" navigation-box" >
+                                <a href="#" class="navigation"><i class="fa fa-comments-o fa-fw"></i>&nbsp;留言板</a>
+                            </li>
+                            <li class="">
+                                <a href="#" class="navigation"><img src="/static/img/file_find1.ico"></a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+        </nav>
+

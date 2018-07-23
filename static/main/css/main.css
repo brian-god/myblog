@@ -137,13 +137,19 @@ a {
 }
 /*页尾样式*/
 .footer{
-	background-color: red;
+	background-color: #464141;
 	margin: 0px;
 	width: 100%;
 	min-height: 100px;
 	/*设置DIV始终下方显示*/
 	position: fixed;
 	bottom:0
+}
+/*版权DIV样式*/
+.copyright{
+    text-align:center;
+    font-size: 1vm;
+    color: white;
 }
 /*
 .main_menu .nav .li .commonly{
