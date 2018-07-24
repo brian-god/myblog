@@ -6,7 +6,7 @@
 	clear: both;
 	position: fixed;
 	z-index: 9999;
-	height: 40px;
+	height: 30px;
 	width: 100%;
 }
 /*时间显示div样式*/
@@ -14,7 +14,7 @@
 	width:350px;
 	height:100%;
 	background:#d6dcde08;
-	line-height:50px;
+	line-height:30px;
 	text-align:center;
 	font-size: 15px;
 }
@@ -45,6 +45,12 @@
     height: 100%;
     width: 12.5%;
    /* background-color: #429353;*/
+}
+.footer-li{
+    float:left;
+    margin-left:0px;
+    list-style-type:none;
+    width: 33%;
 }
 /*a标签效果*/
 a {
@@ -92,7 +98,7 @@ a {
 }
 /*顶部导航*/
 .top-menu{
-    margin-top:40px;
+    margin-top:30px;
     height: 60px;
     background: rgba(51, 51, 51, 0.41);
 }
@@ -145,12 +151,30 @@ a {
 	position: fixed;
 	bottom:0
 }
-/*版权DIV样式*/
+.tooltip-show{
+    font-size: 16px;
+}
+/*ç‰ˆæƒDIVæ ·å¼*/
 .copyright{
     text-align:center;
-    font-size: 1vm;
+    font-size: 16px;
     color: white;
 }
+.tooltip-inner{
+    background: #8ABBFA !important; //修改背景色
+    text-align: left !important;//字体左对齐
+    color:#363636 !important;//字体颜色
+    border:1px solid #dedede;//添加boder
+    max-width: 400px !important;//修改宽度
+}
+.tooltip-arrow{
+    border-bottom-color: #ffffff !important;//修改三角形的颜色
+    opacity: 0;//三角形透明
+}
+.tooltip{
+    opacity: 1 !important;//让整个tooltip不透明
+}
+
 /*
 .main_menu .nav .li .commonly{
 	background-color:green;

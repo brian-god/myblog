@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <title><?php echo $BLOG_TITLE ?></title>
     <meta name="viewport"  content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" type="text/css" href="static/bootstrap/css/bootstrap.css" />
+    <link rel="stylesheet" type="text/css" href="static/bootstrap/css/bootstrap.min.css" />
     <link rel="stylesheet" type="text/css" href="static/bootstrap/css/bootstrap-theme.min.css" />
     <!--自定义样式样式-->
     <link rel="stylesheet" type="text/css" href="static/main/css/main.css" />

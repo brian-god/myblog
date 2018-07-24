@@ -6032,8 +6032,9 @@ button.close {
 }
 .tooltip-inner {
   max-width: 200px;
-  padding: 3px 8px;
-  color: #fff;
+  padding: 8px 12px;
+  color: #7EA3FF;
+  border-radius:5px;
   text-align: center;
   background-color: #000;
   border-radius: 4px;
@@ -6050,7 +6051,7 @@ button.close {
   left: 50%;
   margin-left: -5px;
   border-width: 5px 5px 0;
-  border-top-color: #000;
+  border-top-color: #3A3872;
 }
 .tooltip.top-left .tooltip-arrow {
   right: 5px;
